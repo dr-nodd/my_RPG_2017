@@ -1,0 +1,29 @@
+1:...
+2:I'd love to visit the Tetra moutains.
+3:How are you?
+4:I was told that the Tirel forest was full of dangers.
+5:Nova is a city full of wonders.
+6:A day I will be the very best.
+7:It's dangerous to go alone!
+8:The port of Hargeon is very busy.
+9:What is the meaning of life?
+10:I will become the pirate king.
+11:42.
+12:...
+13:I wonder if there's something in the Sharin desert...
+14:Hello world!
+15:Today is a beautiful day.
+16:What a nice weather!
+17:Hey! Listen!
+18:...
+19:I am your father.
+20:You can use the 'arrows' to move around you.
+21:I was told that 'F12' could be used to capture the present.
+22:You want to travel the world? Here, use ',' to look at your map.
+23:Need a break? Use 'Escape'.
+24:Want to know more about yourself? Press 'Escape'.
+25:If you ever need to fight, use 'Space' to attack.
+26:Did you know? You can press 'E' to interact with people.
+27:In a hurry? Dash with 'Shift'!
+28:Feeling tired? Drink a life potion with 'A' and a mana potion with 'Z'.
+29:When you'll become stronger, you'll be able to switch classes with 'Tab' and select it with 'Enter'.
